@@ -15,7 +15,9 @@ export default defineConfig({
 			{
 				text: 'Examples',
 				items: [
-					{ text: '聚光引擎-电商运营', link: '/聚光引擎-电商运营' }
+					{ text: '聚光引擎-电商运营', link: '/聚光引擎-电商运营' },
+					{ text: '睿领资帆-PPT设计师', link: '/睿领资帆-PPT设计师' },
+					{ text: '荣越环保-平面家居设计师', link: '/荣越环保-平面家居设计师' }
 				]
 			}
 		],
