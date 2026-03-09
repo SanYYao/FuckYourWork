@@ -5,21 +5,25 @@ layout: home
 hero:
   name: "F-Word Your Work"
   text: "Some Works"
-  tagline: My great project tagline
+  tagline: Some Jobs
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 聚光引擎-电商运营
+      link: /聚光引擎-电商运营.md
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+  - title: 聚光引擎-电商运营
+    details: 河南聚光引擎信息技术有限公司 
+
 ---
 
