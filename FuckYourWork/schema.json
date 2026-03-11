@@ -1,0 +1,108 @@
+{
+  "version": "1.0",
+  "description": "FuckYourWork job data schema",
+  "jobItem": {
+    "type": "object",
+    "required": ["id", "company", "position", "location", "salary", "tags", "timestamp"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "description": "唯一标识，格式：company-position-timestamp"
+      },
+      "timestamp": {
+        "type": "string",
+        "description": "记录时间 ISO-8601 格式"
+      },
+      "company": {
+        "type": "string",
+        "description": "公司名称"
+      },
+      "position": {
+        "type": "string",
+        "description": "岗位名称"
+      },
+      "description": {
+        "type": "string",
+        "description": "工作内容描述"
+      },
+      "location": {
+        "type": "string",
+        "description": "工作地点（城市或'远程'）"
+      },
+      "salary": {
+        "type": "object",
+        "required": ["min", "max"],
+        "properties": {
+          "min": {
+            "type": "number",
+            "description": "月薪下限（元）"
+          },
+          "max": {
+            "type": "number",
+            "description": "月薪上限（元）"
+          },
+          "marketAvg": {
+            "type": "number",
+            "description": "市场平均薪资（元），用于对标"
+          },
+          "currency": {
+            "type": "string",
+            "default": "CNY",
+            "description": "货币单位"
+          }
+        }
+      },
+      "tags": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        },
+        "description": "分类标签，格式：#类目"
+      },
+      "source": {
+        "type": "string",
+        "description": "信息来源 URL"
+      },
+      "status": {
+        "type": "string",
+        "enum": ["new", "applied", "interviewed", "rejected", "offered"],
+        "default": "new",
+        "description": "应聘状态"
+      },
+      "notes": {
+        "type": "string",
+        "description": "个人备注"
+      }
+    }
+  },
+  "jobsFile": {
+    "type": "object",
+    "properties": {
+      "meta": {
+        "type": "object",
+        "properties": {
+          "lastUpdated": {
+            "type": "string"
+          },
+          "total": {
+            "type": "number"
+          }
+        }
+      },
+      "jobs": {
+        "type": "array",
+        "items": {
+          "$ref": "#/jobItem"
+        }
+      }
+    }
+  },
+  "tagCategories": {
+    "technique": ["#前端", "#后端", "#AI", "#全栈", "#运维", "#测试", "#DevOps", "#数据", "#爬虫"],
+    "industry": ["#互联网", "#硬件", "#金融", "#教育", "#电商", "#社交", "#出行", "#房产"],
+    "location": ["#郑州", "#远程", "#北京", "#上海", "#深圳"],
+    "salary": ["#高薪", "#中等", "#入门"],
+    "company_size": ["#初创", "#中型", "#大厂"],
+    "feature": ["#融资", "#上市", "#稳定", "#快速成长"]
+  }
+}

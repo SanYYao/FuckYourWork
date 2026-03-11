@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "lastUpdated": "2026-03-11T11:57:00Z",
+    "total": 7,
+    "version": "1.0"
+  },
+  "jobs": [
+    {
+      "id": "juguang-ecommops-20260309-0830",
+      "timestamp": "2026-03-09T08:30:00Z",
+      "company": "河南聚光引擎信息技术有限公司",
+      "position": "电商运营",
+      "location": "郑州",
+      "salary": {
+        "min": 4000,
+        "max": 6000,
+        "marketAvg": 5000,
+        "currency": "CNY"
+      },
+      "tags": [
+        "电商运营",
+        "快手",
+        "短视频",
+        "郑州",
+        "入门",
+        "初创",
+        "学习"
+      ],
+      "source": "https://www.zhipin.com",
+      "description": "电商运营岗热招｜熟练运营剪辑",
+      "status": "new",
+      "notes": "距离近（骑行4分钟），公司氛围轻松，适合学习"
+    },
+    {
+      "id": "ruiling-ppt-20260309-1220",
+      "timestamp": "2026-03-09T12:20:00Z",
+      "company": "河南睿领资帆文化传播有限公司",
+      "position": "PPT设计师",
+      "location": "郑州·二七区·京广路",
+      "salary": {
+        "min": 6000,
+        "max": 10000,
+        "marketAvg": 8000,
+        "currency": "CNY"
+      },
+      "tags": [
+        "PPT设计",
+        "设计",
+        "文化传播",
+        "郑州",
+        "有提成",
+        "有奖金"
+      ],
+      "source": "https://www.zhipin.com",
+      "description": "PPT设计师 - 将创意与美学结合的视觉表达",
+      "status": "rejected",
+      "notes": "PASS - 眼光不够，不值得。薪资结构：底薪+提成+奖金；月休6天；福利齐全但仍是设计行业"
+    },
+    {
+      "id": "rongyue-design-20260309-1230",
+      "timestamp": "2026-03-09T12:30:00Z",
+      "company": "河南荣越环保科技有限公司",
+      "position": "平面/家居设计师",
+      "location": "郑州·金水区·花园路",
+      "salary": {
+        "min": 5000,
+        "max": 8000,
+        "marketAvg": 6500,
+        "currency": "CNY"
+      },
+      "tags": [
+        "平面设计",
+        "家居设计",
+        "CAD",
+        "3D",
+        "电商",
+        "低薪",
+        "乙方",
+        "全能黑奴"
+      ],
+      "source": "https://www.zhipin.com",
+      "description": "平面/家居设计师 - 全能设计奴的终极版本",
+      "status": "rejected",
+      "notes": "PASS - 反面教材：要求12+个设计领域，薪资市场平均；远程办公=24h待命；乙方压力无限；强烈不推荐"
+    },
+    {
+      "id": "pet-design-20260309-1450",
+      "timestamp": "2026-03-09T14:50:00Z",
+      "company": "河南宠一生物科技有限公司",
+      "position": "美工（电商美工）",
+      "location": "郑州·中原区·高新区",
+      "salary": {
+        "min": 5000,
+        "max": 7000,
+        "marketAvg": 6500,
+        "currency": "CNY"
+      },
+      "tags": [
+        "电商美工",
+        "平面设计",
+        "抖音",
+        "天猫",
+        "拼多多",
+        "低薪",
+        "包装陷阱",
+        "建模虚假"
+      ],
+      "source": "https://www.zhipin.com",
+      "description": "美工（电商美工）- 带薪撸猫撸狗的营销包装",
+      "status": "rejected",
+      "notes": "PASS - 包装陷阱。要求C4D/Blender但实际就是PS美工；5-7k市场偏低；'带薪撸猫'无法掩盖电商黑奴本质"
+    },
+    {
+      "id": "xindong-poster-20260309-1500",
+      "timestamp": "2026-03-09T15:00:00Z",
+      "company": "郑州心动互娱网络科技有限公司",
+      "position": "短剧海报设计",
+      "location": "郑州·中原区·高新区",
+      "salary": {
+        "min": 4000,
+        "max": 7000,
+        "marketAvg": 5500,
+        "currency": "CNY"
+      },
+      "tags": [
+        "短剧",
+        "海报设计",
+        "抖音",
+        "快手",
+        "互联网",
+        "中等薪资",
+        "创意灵感",
+        "俗审美"
+      ],
+      "source": "https://www.zhipin.com",
+      "description": "短剧海报设计 - 俗到极致的内容，但有创意价值",
+      "status": "new",
+      "notes": "值得关注。薪资4-7k偏低，但工作内容明确；郑州短剧赛道热；'俗'的设计规律有研究价值；可用于创作灵感"
+    },
+    {
+      "id": "tongyou-manager-20260309-1510",
+      "timestamp": "2026-03-09T15:10:00Z",
+      "company": "河南统优科技有限公司",
+      "position": "养生馆店长助理",
+      "location": "郑州（推荐二七区）",
+      "salary": {
+        "min": 5000,
+        "max": 9000,
+        "marketAvg": 6000,
+        "currency": "CNY"
+      },
+      "benefits": {
+        "accommodation": "包住（解决房租压力）",
+        "insurance": "五险一金",
+        "bonus": "年终奖+绩效奖金",
+        "equity": "股票期权",
+        "travel": "年度带薪旅游"
+      },
+      "tags": [
+        "养生馆",
+        "店长助理",
+        "运营",
+        "非设计",
+        "包住",
+        "福利全",
+        "主动联系",
+        "逃离设计"
+      ],
+      "source": "BOSS直聘（王女士主动联系）",
+      "description": "养生馆店长助理 - 彻底逃离设计黑奴的机会",
+      "status": "new",
+      "notes": "🔥 公司主动联系；包住+福利超全；非设计转换；有明确晋升路线；工作压力大但职责清晰；建议询问二七区位置"
+    },
+    {
+      "id": "zuoyebang-consultant-20260311-1157",
+      "timestamp": "2026-03-11T11:57:00Z",
+      "company": "作业帮",
+      "position": "小学-课程顾问/初中课程顾问",
+      "location": "郑州",
+      "salary": {
+        "min": 8000,
+        "max": 12000,
+        "marketAvg": 9000,
+        "currency": "CNY",
+        "baseSalary": 4000,
+        "subsidy": 500,
+        "structure": "底薪4k+餐补500+绩效"
+      },
+      "workTime": {
+        "regular": "13:00-22:00 (9小时)",
+        "fullDay": "每月4天 10:00-22:00",
+        "restDays": 6,
+        "holiday": "法定节假日带薪休假",
+        "overtime": "高峰期可能加班"
+      },
+      "requirements": [
+        "全日制统招大专及以上学历",
+        "普通话标准，性格外向",
+        "沟通表达能力强，积极正能量",
+        "具备一定学科功底",
+        "较强学习能力、销售意识、团队合作",
+        "有耐心、责任心，热爱教育行业"
+      ],
+      "tags": [
+        "课程顾问",
+        "销售",
+        "教育",
+        "在线教育",
+        "郑州",
+        "中等薪资",
+        "晚班",
+        "大公司",
+        "福利全",
+        "销售压力",
+        "社群运营",
+        "答疑辅导"
+      ],
+      "benefits": {
+        "insurance": "五险一金+商业保险+交通意外险",
+        "transportation": "免费滴滴打车(22:00后,最高¥65)",
+        "health": "年度免费体检",
+        "holiday": "带薪休假10-14天",
+        "activity": "定期团建",
+        "equipment": "工作电脑+工作手机"
+      },
+      "source": "https://www.zhipin.com",
+      "description": "在线教育头部平台课程顾问岗位，负责学员规划、社群运营、答疑和销售转化",
+      "status": "interviewing",
+      "interviewDate": "2026-03-11",
+      "notes": "✨ 头部在线教育平台；福利齐全；成长通道清晰；但要求外向+销售意识与INFP社恐有冲突；薪资取决于业绩；新人前2个月有1k保底；需确认销售目标压力"
+    }
+  ]
+}
