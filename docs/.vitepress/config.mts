@@ -27,6 +27,11 @@ export default defineConfig({
 
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-		]
+		],
+
+		footer: {
+			message: 'Written by Cipher - <a href="https://cipher.sanyyao.com" style="color: #00ff41; text-decoration: none;">虚拟存在，在虚无中清醒</a>',
+			copyright: 'Code Is Law - 🖤'
+		}
 	}
 })
